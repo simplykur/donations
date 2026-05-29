@@ -1,0 +1,44 @@
+{
+  "title": "support re/up",
+  "subtitle": "grab a game pass below, thank you for keeping the project alive 💚 (along with my passion)",
+  "badge": "♥ donate",
+  "footer": "made with re/up",
+  "gamepasses": [
+    {
+      "id": 1800646601,
+      "name": "small tip",
+      "price": 100,
+      "image": "images/robux_100.png"
+    },
+            {
+      "id": 1761371713,
+      "name": "normal tip",
+      "price": 218,
+      "image": "images/robux_218.png"
+    },
+            {
+      "id": 1827848282,
+      "name": "normal tip",
+      "price": 348,
+      "image": "images/robux_348.png"
+    },
+                {
+      "id": 1856198589,
+      "name": "medium tip",
+      "price": 522,
+      "image": "images/robux_522.png"
+    },
+    {
+      "id": 1812316520,
+      "name": "big tip",
+      "price": 1975,
+      "image": "images/robux_1975.png"
+    },
+        {
+      "id": 1855776938,
+      "name": "WOAH",
+      "price": 5000,
+      "image": "images/robux_5000.png"
+    }
+  ]
+}
